@@ -4,7 +4,7 @@
 
 # Hi there!! <img src="https://github.com/Deep7k/Deep7k/blob/main/wave.gif" width="30px">
 
-- 🔭 I am a final year student of Information Science & Engineering
+- 🔭 I am final year student of Information Science & Engineering
 - 🌱 I’m currently learning web development
 - 🥅 2021 Goals: Publish my first project
 - ⚡ Fun fact: I love to draw, Read books, Play video games
