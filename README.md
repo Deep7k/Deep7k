@@ -23,7 +23,6 @@
 [<img align="left" width="110px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][python]
 [<img align="left" width="218px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][VSCode]
 [<img align="left" width="98px"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][linux]
-<-- [<img align="left" width="100px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][html5] -->
 
 <br />
 <br />
@@ -42,7 +41,6 @@
 [python]: https://www.python.org
 [C]: https://www.cprogramming.com
 [linux]: https://www.linux.org
-<!-- [html5]: https://html5.org -->
 
 <!-- ICONS: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <!-- README Generator: https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
