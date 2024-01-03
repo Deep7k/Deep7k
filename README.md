@@ -2,7 +2,7 @@
 
 - 🔭 Currently working as System Administrator
 - 🌱 I’m currently learning AWS & DevOps
-- 🥅 2023 Goal: Publish my full stack project
+- 🥅 2024 Goal: Publish my full stack project
 - ⚡ Fun fact: I love to do pencil sketch, Play video games
 
 ## ☁️ Clouds
