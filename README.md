@@ -1,7 +1,7 @@
 # Hello 👋, I'm Deepak
 - 🔭 Currently working as a System Administrator, with hands-on DevOps work
-- 🌱 Currently working towards my Microsoft Certified: Azure Administrator Associate certification
-- 🚀 Shipped: [VMTrak](https://github.com/Deep7k/VMTrak) — my full stack project is live!
+- 🌱 Currently working towards my Microsoft Azure Administrator Associate certification
+- 🚀 Shipped: [VMTrak](https://github.com/Deep7k/VMTrak)
 - ⚡ Fun fact: I love to do pencil sketch, Play video games
 
 ## ☁️ Clouds
